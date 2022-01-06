@@ -1,0 +1,11 @@
+yfinance==0.1.55
+GoogleNews==1.5.5
+pandas_datareader==0.9.0
+newspaper3k
+quantstats==0.0.26
+stable_baselines==2.10.1
+gym_anytrading==1.2.0
+gym_anytrading==1.2.0
+stable_baselines3==1.0
+gym_anytrading==1.2.0
+
